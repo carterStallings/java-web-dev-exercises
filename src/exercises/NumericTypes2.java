@@ -11,7 +11,7 @@ public class NumericTypes2 {
         Double gallons = input.nextDouble();
         input.close();
         Double mpg = miles/gallons;
-        System.out.println("Hello, your mpg is " + mpg + "mpg ");
+        System.out.println("Hello, your mpg is " + mpg + "mpg");
 
     }
 }
