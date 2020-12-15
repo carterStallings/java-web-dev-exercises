@@ -35,6 +35,7 @@ public class ClassTwoArrayListPractice {
             if (i.length() == wordLength) {
                 System.out.println(i);
             }
+        input.close();
         }
     }
 }
